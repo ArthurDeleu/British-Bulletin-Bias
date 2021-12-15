@@ -8,18 +8,3 @@ image_caption: "Circulation of newspapers in 2020 in the UK, both by printed and
 
 ---
 At the same time Pew Research Center measured that only 5% of UK citizens trust news media a lot, while 27% says to trust it 'somewhat'. 38% says to not trust it too much and 29% says to not trust it at all. 
-
-A look into what papers people on each side of the political spectrum read gives us following conclusions:
-
-
-Is there a reason for these trends? Is the decline in newspaper sales and the increasing suspicion explainable by the fact that UK media are not as trustworthy as they claim to be and if so, could one figure out if the papers actually publish politically left- or right-colored content?
-
-
-Traditionally newssources in the UK had three main sources of revenue: subscriptions, public funding and advertisers. 
-
-## insert plot on publics doubt on media neutrality ##
-
-A drawning man will clutch at a straw. As traditional newspapers are losing terrain, one could suspect new ways of finding public and thus revenue will be thought of in the highly digitised world. 
-As social media made it increasingly effective to use shocking, polarising and click-bait titles and quotations to increase online interactions, a decrease in news neutrality could be expected.
-
-<!--more-->
