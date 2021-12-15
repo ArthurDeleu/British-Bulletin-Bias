@@ -7,14 +7,15 @@ image: printvsdigital.jpg
 image_caption: "Circulation of newspapers in 2020 in the UK, both by printed and online content."
 
 ---
+At the same time Pew Research Center measured that only 5% of UK citizens trust news media a lot, while 27% says to trust it 'somewhat'. 38% says to not trust it too much and 29% says to not trust it at all. 
 
-This trend could be partially explained by the rise of social media concerns like Twitter, Facebook and Google increasingly claiming their share in news publication and spreading.
-According to the Ofcom research, 45% of UK adults said to consume news via a social media channel of choice.
-
-Although traditional papers are gradually shifting to digital platforms and apps to keep their public, social media still seems to be the biggest online newssource.
+A look into what papers people on each side of the political spectrum read gives us following conclusions:
 
 
- Traditionally newssources in the UK had three main sources of revenue: subscriptions, public funding and advertisers. 
+Is there a reason for these trends? Is the decline in newspaper sales and the increasing suspicion explainable by the fact that UK media are not as trustworthy as they claim to be and if so, could one figure out if the papers actually publish politically left- or right-colored content?
+
+
+Traditionally newssources in the UK had three main sources of revenue: subscriptions, public funding and advertisers. 
 
 ## insert plot on publics doubt on media neutrality ##
 
