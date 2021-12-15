@@ -13,6 +13,4 @@ According to research done by Ofcom, UK's communications regulator, television w
 Over the years physical newspaper consumption and revenue vastly decreased. According to Statista, expenditure on newspapers fell from 4.45 billion British pounds in 2005 to under 2.8 billion GBP in 2020.
 According to Ofcom circulation of national newspaper titles has decreased from nearly 22 million in 2010 to 9.3 million in 2019.
 
-![](printvsdigital.jpg)
-
 <!--more-->
