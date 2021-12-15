@@ -17,7 +17,7 @@ title: British Bulletin Bias
 email: arthur.deleu@epfl.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Revealing the hidden agenda of UK’s fourth estate
-baseurl: "/british-bulletin-bias" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arthurdeleu.github.io/British-Bulletin-Bias/" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: '' # Substitute this with your own GA key
 twitter_username: 
