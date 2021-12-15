@@ -8,4 +8,6 @@ image: ""
 # 1. Amount of quoted parties per paper - JOHANNA?
 # 2. Frequency of certain big people in UK politics
 # 3. CLustering
+
+{% include ploty_scatter.html %}
 <!--more-->
