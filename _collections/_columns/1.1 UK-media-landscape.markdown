@@ -13,13 +13,10 @@ According to the Ofcom research, 45% of UK adults said to consume news via a soc
 
 Although traditional papers are gradually shifting to digital platforms and apps to keep their public, social media still seems to be the biggest online newssource.
 
-## insert plot on social media vs paper consumption ##
-
-## make remark of media concerns followed on social media ##
 
  Traditionally newssources in the UK had three main sources of revenue: subscriptions, public funding and advertisers. 
 
-## insert plot on newspaper revenue streams and sources ##
+## insert plot on publics doubt on media neutrality ##
 
 A drawning man will clutch at a straw. As traditional newspapers are losing terrain, one could suspect new ways of finding public and thus revenue will be thought of in the highly digitised world. 
 As social media made it increasingly effective to use shocking, polarising and click-bait titles and quotations to increase online interactions, a decrease in news neutrality could be expected.
