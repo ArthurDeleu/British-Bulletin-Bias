@@ -54,6 +54,8 @@ collections:
     output: true
   interactive2:
     output: true
+  interactive3:
+    output: true
   columns3:
     output: false
 

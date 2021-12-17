@@ -71,6 +71,19 @@ layout: default
   </div>
 </section>
 
+<!-- INTERACTIVE SECTION 3-->
+<section class="hero">
+  <!-- HERO -->
+  <div class="interactive">
+    {% for item in site.interactive3 %}
+      {% if item.position == 'center' %}
+        {% include article.html item=item %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
 <!-- MASONRY SECTION 2 -->
 <section class="masonry">
   {% for item in site.columns2 %}
