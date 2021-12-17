@@ -4,7 +4,7 @@ title:  ""
 author: Tajat
 date:   1776-02-14 20:20:35 +0200
 image: "yougov.jpg"
-image_caption: "*People who answered ‘Don’t know’ are omitted, between 39% - 49% of respondents.
+image_caption: "*People who answered ‘Don’t know’ are omitted, between 39% - 49% of respondents. \n
 **The data was used as used by the YouGovpaper, the bars don’t always sum up to 100 due to what appears to be rounding errors. It was decided not to fix this to not alter the data."
 ---
 
