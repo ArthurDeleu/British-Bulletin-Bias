@@ -11,4 +11,11 @@ An extra advantage of the UK as a country of research is the fact that the count
 
 Previously done research in the domain of news neutrality gives a baseline to which results can be compared to. In a survey by YouGov in 2017, 2040 people were asked to label newspapers based on how left or rightwing they appear them to be. Some of these newspapers coincide with the ones in our research.
 
+A look into this data, gives a first impression on how left- or right-wing certain papers appear to be.
+
+## "Daily mail and Daily Express keep up a right-wing reputation, The Guardian and The Mirror leave left-wing impressions. ##
+
+Is there a reason for the fact that The Guardian has a left-wing reputation? Can we draw a line on which newspapers have similar ideologies? Is the media as biased as people might think it is?
+
+
 <!--more-->
