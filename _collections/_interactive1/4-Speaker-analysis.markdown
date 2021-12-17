@@ -10,7 +10,7 @@ In the animation it can be seen how the number of quotes made by conservative an
 
 {% include animation_quotesperparty.html %}
 
- It was not easy to find any patterns when clustering the speaker frequency matrix using K-means. Trying something different, the speaker frequency matrix was projected onto a 2-dimensional space. Just to make the plot more interpretable, each newspaper was given a political stance according to the survey from 2017 made by YouGow, if applicable. Even when doing this, there is no clear pattern for any of the years. The newspapers move around over the map, having different neighbours each year. Maybe there is no pattern at all?
+ It was not easy to find any patterns when clustering the speaker frequency matrix using K-means. Trying something different, the speaker frequency matrix was projected onto a 2-dimensional space. Just to make the plot more interpretable, each newspaper was given a political stance according to the survey from 2017 made by YouGov, if applicable. Even when doing this, there is no clear pattern for any of the years. The newspapers move around over the map, having different neighbours each year.
 
 
 {% include ploty_scatter.html %}
