@@ -10,4 +10,6 @@ One could raise the question why the United States where not chosen instead. The
 
 An extra advantage of the UK as a country of research is the fact that the country has a state-owned newssource, the BBC. Findings on neutrality could be remarkably more interesting taking this into account, since one would suspect a state-owned company to be espacially truthful and impartial.
 
+Previously done research in the domain of news neutrality gives a baseline to which results can be compared to. In a survey by YouGov in 2017, 2040 people were asked to label newspapers based on how left or rightwing they appear them to be. Some of these newspapers coincide with the ones in our research.
+
 <!--more-->

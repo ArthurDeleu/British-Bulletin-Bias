@@ -1,0 +1,14 @@
+---
+layout: post
+title:  ""
+author: Tajat
+date:   1776-02-14 20:20:35 +0200
+image: ""
+image_caption: "Total amount of quotes with sentiment positive, neutral and negative for each newspaper. "
+---
+This shows the mean sentiment for all quotes made by connservative respective labour speakers for each newspaper. The values are quite even but some interesting things could be noted. … add more if we want to keep it. 
+
+{% animation_sentimentperparty.html %}
+
+# 3. Get same people (f.e. Boris Johnson / Teresa May) (could be 2) from previous part and look at sentiment on them per paper.
+<!--more-->

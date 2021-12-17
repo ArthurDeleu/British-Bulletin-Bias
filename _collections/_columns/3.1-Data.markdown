@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "The Data & Related Work"
+author: Tajat
+date:   1776-02-14 20:20:35 +0200
+image: "amount_of_quotes.png"
+image_caption: "Percentage of total number of quotes, summarized over all years."
+---
+
+<!--more-->
