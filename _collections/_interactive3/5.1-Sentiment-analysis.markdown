@@ -7,7 +7,8 @@ image: "hist_sentiment_all_years.png"
 image_caption: "Total amount of quotes with sentiment positive, neutral and negative for each newspaper."
 position: center
 ---
-This shows the mean sentiment for all quotes made by connservative respective labour speakers for each newspaper. The values are quite even but some interesting things could be noted. … add more if we want to keep it. 
+The following plot shows how often a paper would quote a certain political party on a yearly basis.
+We clearly see both parties get quoted almost equally postively, but in general one would notice labour parties get quoted a bit more often in a positive way. 
 
 {% include animation_sentimentperparty.html %}
 
