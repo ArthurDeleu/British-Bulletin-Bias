@@ -3,8 +3,6 @@ layout: post
 title:  "Uk Media Landscape in 2020"
 author: Tajat
 date:   1776-02-14 20:20:35 +0200
-image: 
-image_caption: 
 ---
 Since the first news and gossip papers during the 17th century, technology made UK journalism an ever changing industry. Since then, journalism changed from a mainly written field to a multi-platformed discipline where radio, television, The Internet, computers and mobile devices made it possible to stay ever-informed. According to research done by Ofcom, UK's communications regulator, television was still the most used platform for news consumption in the UK during 2020, with Internet and social media closely following with 65% and 45%, respectively.
 
