@@ -21,5 +21,6 @@ On a topic basis, no big differences are to be seen. All papers seem to favor ab
 
 Further research is for sure necessary, but this initial research seems to show in a numerical way how British media is being wrongly portrayed as biased. 
 
+[SOURCES]:
 <sup>1</sup>https://www.ofcom.org.uk/research-and-data/tv-radio-and-on-demand/news-media/news-consumption
 <sup>2</sup>https://yougov.co.uk/topics/politics/articles-reports/2017/03/07/how-left-or-right-wing-are-uks-newspapers
