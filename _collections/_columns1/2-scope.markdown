@@ -17,5 +17,4 @@ Is there a reason for the fact that The Guardian has a left-wing reputation? Can
 
 *** "Daily mail and Daily Express keep up a right-wing reputation, The Guardian and The Mirror leave left-wing impressions." ***
 
-
 <!--more-->
