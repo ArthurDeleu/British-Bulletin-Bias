@@ -10,5 +10,4 @@ This shows the mean sentiment for all quotes made by connservative respective la
 
 {% include animation_sentimentperparty.html %}
 
-# 3. Get same people (f.e. Boris Johnson / Teresa May) (could be 2) from previous part and look at sentiment on them per paper.
 <!--more-->

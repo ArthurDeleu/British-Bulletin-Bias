@@ -10,10 +10,6 @@ In the animation it can be seen how the number of quotes made by conservative an
 
 {% include animation_quotesperparty.html %}
 
-# 2. Frequency of certain big people in UK politics - ARTHUR TO DO
-
-# 3. CLustering
-#### write about clustering here
 
 {% include ploty_scatter.html %}
 
