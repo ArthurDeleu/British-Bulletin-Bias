@@ -4,7 +4,7 @@ title:  ""
 author: Tajat
 date:   1776-02-14 20:20:35 +0200
 image: "hist_sentiment_all_years.png"
-image_caption: "Total amount of quotes with sentiment positive, neutral and negative for each newspaper."
+image_caption: "Total amount of quotes with positive, neutral or negative sentiment for each newspaper."
 position: center
 ---
 The following plot shows how often a paper would quote a certain political party on a yearly basis.
