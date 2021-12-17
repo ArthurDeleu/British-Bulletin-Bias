@@ -44,10 +44,18 @@ plugins:
 collections_dir: _collections
 
 collections:
-  columns:
+  columns1:
     output: true
   heros:
     output: true
+  columns2:
+    output: true
+  interactive1:
+    output: true
+  interactive2:
+    output: true
+  columns3:
+    output: false
 
 
 # Social media
