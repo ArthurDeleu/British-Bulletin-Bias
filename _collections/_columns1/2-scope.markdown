@@ -9,7 +9,7 @@ In this project it was chosen to measure news neutrality in the UK specifically,
 
 An extra advantage of the UK as a country of research is the fact that the country has a state-owned news source, the BBC. Findings on neutrality could be remarkably more interesting taking this into account, since one would expect a public service company to be especially truthful and impartial.
 
-Previously done research in the domain of news neutrality gives a baseline to which results can be compared to. In a survey by YouGov in 2017, 2040 people were asked to label newspapers based on how left or rightwing they appear them to be. Some of these newspapers coincide with the ones in our research.
+Previously done research in the domain of news neutrality gives a baseline to which results can be compared to. In a survey by YouGov<sup>2</sup> in 2017, 2040 people were asked to label newspapers based on how left or rightwing they appear them to be. Some of these newspapers coincide with the ones in our research.
 
 A look into this data, gives a first impression on how left- or right-wing certain papers appear to be.
 
