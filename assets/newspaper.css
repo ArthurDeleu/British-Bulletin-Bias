@@ -78,7 +78,6 @@ q {
   -webkit-column-count:2;
   -moz-column-count:2;
   column-count: 2;
-  padding: 0 1em;
   font-size: .85em;
   margin-left:-1px;
   margin-right: -1px;
@@ -88,7 +87,7 @@ q {
   display: block;
   background: #fff;
   padding-left: -2px;
-  width: 95%;
+  width: 100%;
   -webkit-transition:1s ease all;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
