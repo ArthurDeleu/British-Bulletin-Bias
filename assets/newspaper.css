@@ -86,7 +86,7 @@ q {
 .item {
   display: block;
   background: #fff;
-  padding: 100px;
+  padding: 50px;
   width: 95%;
   -webkit-transition:1s ease all;
   box-sizing: border-box;

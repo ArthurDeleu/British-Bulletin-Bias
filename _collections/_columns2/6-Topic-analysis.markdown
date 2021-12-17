@@ -10,8 +10,4 @@ Some subjects are usually polarized in society, and this holds for the political
 
 It can be seen in the above heatmap that war related topics were quoted the most for all newspapers. Health care and crime related topics are also quoted a lot.
 
-
-# 2. Time series of topic occurence
-# 3. Sentiment of topics?
-# 4. Clustering
 <!--more-->
