@@ -15,6 +15,6 @@ A look into this data, gives a first impression on how left- or right-wing certa
 
 Is there a reason for the fact that The Guardian has a left-wing reputation? Can we draw a line on which newspapers have similar ideologies? Is the media as biased as people might think it is?
 
-*** "Daily mail and Daily Express keep up a right-wing reputation, The Guardian and The Mirror leave left-wing impressions." ***
+***"Daily mail and Daily Express keep up a right-wing reputation, The Guardian and The Mirror leave left-wing impressions."***
 
 <!--more-->
