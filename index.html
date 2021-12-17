@@ -47,27 +47,29 @@ layout: default
 
 <!-- INTERACTIVE SECTION 1 -->
 <section class="hero">
-  <!-- LEFT HERO -->
-  <div class="sideHeroColumn">
+  <!-- HERO -->
+  <div class="heroColumn">
     {% for item in site.interactive1 %}
-      {% if item.position == 'left' %}
+      {% if item.position == 'center' %}
         {% include article.html item=item %}
         {% break %}
       {% endif %}
     {% endfor %}
   </div>
+</section>
 
 <!-- INTERACTIVE SECTION 2-->
 <section class="hero">
-  <!-- LEFT HERO -->
-  <div class="sideHeroColumn">
+  <!-- HERO -->
+  <div class="heroColumn">
     {% for item in site.interactive2 %}
-      {% if item.position == 'left' %}
+      {% if item.position == 'center' %}
         {% include article.html item=item %}
         {% break %}
       {% endif %}
     {% endfor %}
   </div>
+</section>
 
 <!-- MASONRY SECTION 2 -->
 <section class="masonry">
