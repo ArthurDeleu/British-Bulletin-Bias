@@ -79,16 +79,16 @@ q {
   -moz-column-count:2;
   column-count: 2;
   font-size: .85em;
-  margin-left:-1px;
-  margin-right: -1px;
+  margin-left:0px;
+  margin-right: 0px;
   margin-bottom: 15px;
 }
 .item {
   display: block;
   background: #fff;
-  padding-left: 0px;
+  padding: 50px;
   width: 100%;
-  -webkit-transition:1s ease all;
+  -webkit-transition:ease all;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
