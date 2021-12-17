@@ -37,7 +37,7 @@
 }
 body {
   font-family: 'Newsflash', serif;
-  margin: ;
+  margin: 0;
 }
 p {
   text-align: justify;
@@ -51,6 +51,7 @@ h3 {
   text-align: center;
 }
 article {
+  margin-left: 1px;
   margin-bottom: 1.5em;
 }
 blockquote {
