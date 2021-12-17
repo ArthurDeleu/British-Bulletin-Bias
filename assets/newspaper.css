@@ -3,6 +3,11 @@
 	src: url("../assets/fonts/font/Oldnewspapertypes.ttf");
   }
 
+.interactive {
+  float: center;
+  width: 100%;
+  padding: 100px;
+}
 .sideHeroColumn {
   float: right;
   width: 50%;

@@ -48,7 +48,7 @@ layout: default
 <!-- INTERACTIVE SECTION 1 -->
 <section class="hero">
   <!-- HERO -->
-  <div class="heroColumn">
+  <div class="interactive">
     {% for item in site.interactive1 %}
       {% if item.position == 'center' %}
         {% include article.html item=item %}
@@ -61,7 +61,7 @@ layout: default
 <!-- INTERACTIVE SECTION 2-->
 <section class="hero">
   <!-- HERO -->
-  <div class="heroColumn">
+  <div class="interactive">
     {% for item in site.interactive2 %}
       {% if item.position == 'center' %}
         {% include article.html item=item %}
