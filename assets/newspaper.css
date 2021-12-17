@@ -88,7 +88,7 @@ q {
   background: #fff;
   padding: 100px;
   width: 95%;
-  -webkit-transition:ease all;
+  -webkit-transition:1s ease all;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
