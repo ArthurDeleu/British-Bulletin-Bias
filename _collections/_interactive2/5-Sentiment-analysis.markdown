@@ -4,6 +4,7 @@ title:  "Sentiment analysis of speakers"
 author: Tajat
 date:   1776-02-14 20:20:35 +0200
 image: ""
+position: center
 ---
 A common view on news nowadays is that it reporting always tends to be negatively biased.
 ## insert survey on how people percieve news
