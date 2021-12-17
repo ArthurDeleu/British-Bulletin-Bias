@@ -4,10 +4,9 @@ title:  ""
 author: Tajat
 date:   1776-02-14 20:20:35 +0200
 image: trust.jpg
-image_caption: "% of UK adults in each ideological group who generally trust each news outlet."
+image_caption: "percentage of UK adults in each ideological group who generally trust each news outlet."
 
 ---
-At the same time Pew Research Center measured that only 5% of UK citizens trust news media a lot, while 27% says to trust it 'somewhat'. 38% says to not trust it too much and 29% says to not trust it at all. 
 
 A look into what papers people on each side of the political spectrum trust gives us an idea on potential political bias of certain papers.
 
