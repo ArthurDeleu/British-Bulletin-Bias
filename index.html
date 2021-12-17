@@ -36,9 +36,42 @@ layout: default
 
 </section>
 
-<!-- MASONRY SECTION -->
+<!-- MASONRY SECTION 1 -->
 <section class="masonry">
-  {% for item in site.columns %}
+  {% for item in site.columns1 %}
+    <div class="item">
+      {% include article.html item=item %}
+    </div>
+  {% endfor %}
+</section>
+
+<!-- INTERACTIVE SECTION 1 -->
+<section class="hero">
+  <!-- LEFT HERO -->
+  <div class="sideHeroColumn">
+    {% for item in site.interactive1 %}
+      {% if item.position == 'left' %}
+        {% include article.html item=item %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+<!-- INTERACTIVE SECTION 2-->
+<section class="hero">
+  <!-- LEFT HERO -->
+  <div class="sideHeroColumn">
+    {% for item in site.interactive2 %}
+      {% if item.position == 'left' %}
+        {% include article.html item=item %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+<!-- MASONRY SECTION 2 -->
+<section class="masonry">
+  {% for item in site.columns2 %}
     <div class="item">
       {% include article.html item=item %}
     </div>
