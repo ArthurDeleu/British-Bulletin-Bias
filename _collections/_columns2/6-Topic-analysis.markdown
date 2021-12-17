@@ -8,6 +8,6 @@ image_caption: "Heatmap showing the mean number of mentioned political topics pe
 ---
 Some subjects are usually polarized in society, and this holds for the political landscape in the UK as well. Such topics include Climate change, Brexit, Immigration, Healthcare, Education, War, Crime and the Monarchy. It is therefore interesting to analyze the mentionings of these subjects in the chosen newspapers.
 
-It can be seen in the above heatmap that war related topics were quoted the most for all newspapers. Health care and crime related topics are also quoted a lot.
+In this case there are some patterns, but all newspapers follow it and there is no clear division between them. For example war related topics were quoted the most for all newspapers. Health care and crime related topics are also quoted a lot, while climate change is the overall most unpopular. 
 
 <!--more-->
