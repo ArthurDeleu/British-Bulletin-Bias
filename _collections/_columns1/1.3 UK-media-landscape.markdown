@@ -3,8 +3,7 @@ layout: post
 title:  ""
 author: Tajat
 date:   1776-02-14 20:20:35 +0200
-image: trust.jpg
-image_caption: "Percentage of UK adults in each ideological group who generally trust each news outlet."
+image:
 
 ---
 
